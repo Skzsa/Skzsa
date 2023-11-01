@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Skzsa
-- 👀 I’m interested in music
-- 🌱 I’m currently learning n sei
-- 💞️ I’m looking to collaborate on sla
+- 👀 I’m interested in computador
+- 🌱 I’m currently learning programação
+- 💞️ I’m looking to collaborate on aprender
 - 📫 How to reach me my gmail
 
 <!---
